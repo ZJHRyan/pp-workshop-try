@@ -1,4 +1,4 @@
-,id,position,name,score,ratings,category,price_range,full_address,zip_code,lat,lng
+index,id,position,name,score,ratings,category,price_range,full_address,zip_code,lat,lng
 1,7,27,Jinsei Sushi,4.7,63,"Sushi, Asian, Japanese",1,"1830 29th Ave S, Birmingham, AL, 35209",35209,33.48044,-86.79044
 2,14,51,Panera  521 Fieldstown Road ,4.6,44,"Breakfast and Brunch, salad, Sandwich, Family Meals, Pizza, Healthy, American, Chicken",1,"521 Fieldstown Road, Gardendale, AL, 35071",35071,33.6514066,-86.8192467
 3,16,88,Jeni's Splendid Ice Cream  Pepper Place ,5,20,"Ice Cream &amp; Frozen Yogurt, Comfort Food, Desserts",3,"219 29th St S, Birmingham, AL, 35233",35233,33.5166,-86.78995
